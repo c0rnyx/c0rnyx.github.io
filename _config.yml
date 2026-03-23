@@ -1,4 +1,4 @@
-# The Site Configuration
+F# The Site Configuration
 
 # Import the theme
 theme: jekyll-theme-chirpy
@@ -40,9 +40,8 @@ social:
     # The first element serves as the copyright owner's link
     # https://twitter.com/username # change to your Twitter homepage
     - https://github.com/c0rnyx # change to your GitHub homepage
-    - https://tryhackme.com/p/sam11
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://tryhackme.com/p/sam11
     # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
